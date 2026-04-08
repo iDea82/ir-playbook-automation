@@ -1,0 +1,13 @@
+# API Keys
+config.py
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated reports
+reports/
